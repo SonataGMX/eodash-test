@@ -7,8 +7,3 @@ default_overlay_layers: "layers/overlays"
 assets_endpoint: "https://raw.githubusercontent.com/jorop/eodash-test/main/"
 collections:
   - gm-flooding-at
-  - gm-flooding
-  - gm-lodging
-  - gm-logging
-  - sm_lt_04_medium
-  - ld_lt_06_raster
