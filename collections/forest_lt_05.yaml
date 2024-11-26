@@ -31,4 +31,4 @@ Resources:
       Start: "2024-05-01T00:00:00Z"
       End: "2024-05-31:00:00Z"
       Timedelta:
-        days: 30
+        days: 1
