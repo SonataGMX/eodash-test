@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "Forest Loss in 2024 05-09",
   "stac_version": "1.0.0",
-  "description": "indicators/forest_lt_m05-09.md",
+  "description": "### Legend\n![image](sagris_forest_cuts_m0509_pc.png)\n",
   "links": [
     {
       "rel": "root",
@@ -271,12 +271,12 @@
   "license": "proprietary",
   "summaries": {
     "subcode": [
-      "forest_lt_09",
+      "forest_lt_06",
+      "forest_lt_08",
       "forest_lt_0509_wms",
       "forest_lt_05",
-      "forest_lt_06",
       "forest_lt_07",
-      "forest_lt_08"
+      "forest_lt_09"
     ],
     "themes": [
       "Forest"
