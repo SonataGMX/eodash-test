@@ -1,5 +1,3 @@
-### Legend
-![image](sagris_forest_cuts_m0509_pc.png)
 
 Tree cover loss monthly estimates, derived from Sentinel-1 polarimetry
 SAR data pre-processed with SAGRIS production system
@@ -11,3 +9,7 @@ mapping unit - 100 sq.m) and temporal frequency (monthly updates during
 summer) with additional periodic assessment of the whole summer season
 (months 05-09, 2024). Vector map of forestry taxation units shows
 percentage of area indicating tree loss.
+
+### Legend
+![image](sagris_forest_cuts_m0509_pc.png)
+
