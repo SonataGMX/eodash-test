@@ -1,7 +1,7 @@
 Name: "Forest Loss in 2024 05-09"
 Title: "Forest Loss in 2024 05-09"
 EodashIdentifier: "forest_lt_m05-09"
-Description: "forest indicator"
+Description: indicators/forest_lt_m05-09.md
 Bbox: [22.64524,54.94676,23.02416,55.30585]
 MapProjection:
   name: 'EPSG:3035'
