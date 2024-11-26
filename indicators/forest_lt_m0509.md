@@ -1,6 +1,6 @@
-## Tree cover losses
+## Tree cover loss
 
-### Tree cover losses legend
+### Tree cover loss legend
 ![image](sagris_forest_cuts_m0509_pc.png)
 
 Tree cover loss monthly estimates, derived from Sentinel-1 polarimetry
