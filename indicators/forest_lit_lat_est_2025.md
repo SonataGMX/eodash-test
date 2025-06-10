@@ -8,12 +8,14 @@ severe storms, forestry maintenance activities, as well as legal or
 illegal timber production. This service has high sensitivity (minimum
 mapping unit - 100 sq.m) and assessment of the whole winter season 2024/25 (October-April) in Baltic states (Lithuania, Latvia, Estonia). 
 
-### Tree cover loss legend
-Vector map of forestry taxation units shows percentage of area indicating tree loss.
+### Tree cover loss coeficient values legend
+Vector map of SAGRIS tree loss coeficient shows coeficient values of area in hectares indicating tree loss.
+
 ![image](legenda_pix.png)
 
-### Tree cover loss legend
+### Tree cover loss points layer legend
 Points layer of forest clear-cuts (incl. natural forest loss) shows the center-point locations and relative sizes of the clear-cuts.
+
 ![image](legenda_points.png)
 
 
