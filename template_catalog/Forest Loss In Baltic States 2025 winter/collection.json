@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "Forest Loss In Baltic States 2025 winter",
   "stac_version": "1.1.0",
-  "description": "## Tree cover loss\n\n### Tree cover loss legend\nTree cover loss estimates, derived from Sentinel-1 polarimetry\nSAR data pre-processed with SAGRIS production system\n(http://www.sagris.eu), cover all scenarios of natural and man-made \ncauses of the loss of trees, including natural tree fall due to aging,\nsevere storms, forestry maintenance activities, as well as legal or\nillegal timber production. This service has high sensitivity (minimum\nmapping unit - 100 sq.m) and periodic assessment of the whole winter season 2024/25 (October-April). \n\n![image](legenda_pix.png)\nVector map of forestry taxation units shows percentage of area indicating tree loss.\n\n![image](legenda_points.png)\nBaltic states (LIT, LAT, EST) forest clear-cuts (incl. natural forest loss) registered during winter season 2024/25 (October-April). Points layer showing the center-point locations and relative sizes of the clear-cuts.\n",
+  "description": "## Tree cover loss\n\nTree cover loss estimates, derived from Sentinel-1 polarimetry\nSAR data pre-processed with SAGRIS production system\n(http://www.sagris.eu), cover all scenarios of natural and man-made \ncauses of the loss of trees, including natural tree fall due to aging,\nsevere storms, forestry maintenance activities, as well as legal or\nillegal timber production. This service has high sensitivity (minimum\nmapping unit - 100 sq.m) and assessment of the whole winter season 2024/25 (October-April) in Baltic states (Lithuania, Latvia, Estonia). \n\n### Tree cover loss legend\nVector map of forestry taxation units shows percentage of area indicating tree loss.\n![image](legenda_pix.png)\n\n### Tree cover loss legend\nPoints layer of forest clear-cuts (incl. natural forest loss) shows the center-point locations and relative sizes of the clear-cuts.\n![image](legenda_points.png)\n\n\n",
   "links": [
     {
       "rel": "root",
@@ -169,9 +169,9 @@
   "license": "other",
   "summaries": {
     "subcode": [
-      "forest_lit_lat_est_2025_winter_pnt",
+      "forest_lit_lat_est_2025_winter_pix",
       "forest_lt_lat_est_2025_winter_boundaries",
-      "forest_lit_lat_est_2025_winter_pix"
+      "forest_lit_lat_est_2025_winter_pnt"
     ],
     "themes": [
       "Forest"
