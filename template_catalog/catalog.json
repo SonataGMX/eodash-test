@@ -33,6 +33,33 @@
       }
     },
     {
+      "rel": "child",
+      "href": "./Forest Loss in 2025 winter/collection.json",
+      "type": "application/json",
+      "title": "Forest Loss in 2025 winter",
+      "code": "forest_lt_lat_est_2025_winter",
+      "id": "Forest Loss in 2025 winter",
+      "themes": [
+        "Forest"
+      ],
+      "subcode": "forest_lt_lat_est_2025_winter",
+      "satellite": [
+        "Satellitename"
+      ],
+      "sensor": [
+        "Sensorname"
+      ],
+      "tags": [
+        "example tag"
+      ],
+      "agency": [
+        "Example agency"
+      ],
+      "insituSources": [
+        "Other insitu data"
+      ]
+    },
+    {
       "rel": "self",
       "href": "https://SonataGMX.github.io/repository/repository/catalog.json",
       "type": "application/json"
