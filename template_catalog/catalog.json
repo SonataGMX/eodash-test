@@ -34,30 +34,25 @@
     },
     {
       "rel": "child",
-      "href": "./Forest Loss in 2025 winter/collection.json",
+      "href": "./Forest Loss In Baltic States winter (2025)/collection.json",
       "type": "application/json",
-      "title": "Forest Loss in 2025 winter",
-      "code": "forest_lit_lat_est_2025_winter_pix",
-      "id": "Forest Loss in 2025 winter",
+      "title": "Forest Loss In Baltic States winter (2025)",
+      "code": "forest_lit_lat_est_2025_winter",
+      "id": "Forest Loss In Baltic States winter (2025)",
+      "subcode": "forest_lit_lat_est_2025_winter",
       "themes": [
         "Forest"
       ],
-      "subcode": "forest_lit_lat_est_2025_winter_pix",
       "satellite": [
         "Satellitename"
       ],
       "sensor": [
         "Sensorname"
       ],
-      "tags": [
-        "example tag"
-      ],
-      "agency": [
-        "Example agency"
-      ],
-      "insituSources": [
-        "Other insitu data"
-      ]
+      "eodash:mapProjection": {
+        "name": "EPSG:3035",
+        "def": "+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs"
+      }
     },
     {
       "rel": "self",

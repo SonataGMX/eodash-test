@@ -1,0 +1,186 @@
+{
+  "type": "Collection",
+  "id": "Forest Loss In Baltic States winter (2025)",
+  "stac_version": "1.1.0",
+  "description": "## Tree cover loss\n\n### Tree cover loss legend\n![image](legenda_pix.png)\n![image](legenda_points.png)\n\nTree cover loss monthly estimates, derived from Sentinel-1 polarimetry\nSAR data pre-processed with SAGRIS production system\n(http://www.sagris.eu), cover all scenarios of natural and man-made \ncauses of the loss of trees, including natural tree fall due to aging,\nsevere storms, forestry maintenance activities, as well as legal or\nillegal timber production. This service has high sensitivity (minimum\nmapping unit - 100 sq.m) and temporal frequency (monthly updates during\nsummer) with additional periodic assessment of the whole summer season\n(months 05-09, 2024). Vector map of forestry taxation units shows\npercentage of area indicating tree loss.\n",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "GTIF Baltics"
+    },
+    {
+      "rel": "child",
+      "href": "./Forest Loss in 2025 winter/collection.json",
+      "type": "application/json",
+      "title": "Forest Loss in 2025 winter",
+      "endpointtype": "WMS_OverwriteTimes",
+      "code": "forest_lit_lat_est_2025_winter_pix",
+      "id": "Forest Loss in 2025 winter",
+      "themes": [
+        "Forest"
+      ],
+      "tags": [
+        "example tag"
+      ],
+      "agency": [
+        "Example agency"
+      ],
+      "subcode": "forest_lit_lat_est_2025_winter_pix",
+      "sensor": [
+        "Sensorname"
+      ],
+      "satellite": [
+        "Satellitename"
+      ],
+      "insituSources": [
+        "Other insitu data"
+      ]
+    },
+    {
+      "rel": "child",
+      "href": "./Forest Loss in 2025 winter points/collection.json",
+      "type": "application/json",
+      "title": "Forest Loss in 2025 winter points",
+      "endpointtype": "WMS_OverwriteTimes",
+      "code": "forest_lit_lat_est_2025_winter_pnt",
+      "id": "Forest Loss in 2025 winter points",
+      "themes": [
+        "Forest"
+      ],
+      "tags": [
+        "example tag"
+      ],
+      "agency": [
+        "Example agency"
+      ],
+      "subcode": "forest_lit_lat_est_2025_winter_pnt",
+      "sensor": [
+        "Sensorname"
+      ],
+      "satellite": [
+        "Satellitename"
+      ],
+      "insituSources": [
+        "Other insitu data"
+      ]
+    },
+    {
+      "rel": "child",
+      "href": "./Forest Loss in 2025 winter boundaries/collection.json",
+      "type": "application/json",
+      "title": "Forest Loss in 2025 winter boundaries",
+      "endpointtype": "WMS_OverwriteTimes",
+      "code": "forest_lt_lat_est_2025_winter_boundaries",
+      "id": "Forest Loss in 2025 winter boundaries",
+      "themes": [
+        "Forest"
+      ],
+      "tags": [
+        "example tag"
+      ],
+      "agency": [
+        "Example agency"
+      ],
+      "subcode": "forest_lt_lat_est_2025_winter_boundaries",
+      "sensor": [
+        "Sensorname"
+      ],
+      "satellite": [
+        "Satellitename"
+      ],
+      "insituSources": [
+        "Other insitu data"
+      ]
+    },
+    {
+      "rel": "xyz",
+      "href": "//tiles.maps.eox.at/wmts/1.0.0/s2cloudless-2023_3857/default/g/{z}/{y}/{x}.jpeg",
+      "type": "image/jpeg",
+      "title": "EOxCloudless 2023",
+      "roles": [
+        "baselayer"
+      ],
+      "id": "cloudless-2023"
+    },
+    {
+      "rel": "xyz",
+      "href": "//tiles.maps.eox.at/wmts/1.0.0/overlay_base_bright_3857/default/g/{z}/{y}/{x}.png",
+      "type": "image/png",
+      "title": "Overlay labels",
+      "roles": [
+        "overlay",
+        "visible"
+      ],
+      "id": "overlay_bright"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "GTIF Baltics"
+    }
+  ],
+  "subcode": "forest_lit_lat_est_2025_winter",
+  "eodash:mapProjection": {
+    "name": "EPSG:3035",
+    "def": "+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs"
+  },
+  "title": "Forest Loss In Baltic States winter (2025)",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          22.64524,
+          54.94676,
+          23.02416,
+          55.30585
+        ],
+        [
+          22.64524,
+          54.94676,
+          23.02416,
+          55.30585
+        ],
+        [
+          22.64524,
+          54.94676,
+          23.02416,
+          55.30585
+        ],
+        [
+          22.64524,
+          54.94676,
+          23.02416,
+          55.30585
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2024-10-01T00:00:00Z",
+          "2025-04-30T00:00:00Z"
+        ]
+      ]
+    }
+  },
+  "license": "other",
+  "summaries": {
+    "subcode": [
+      "forest_lit_lat_est_2025_winter_pix",
+      "forest_lt_lat_est_2025_winter_boundaries",
+      "forest_lit_lat_est_2025_winter_pnt"
+    ],
+    "themes": [
+      "Forest"
+    ],
+    "satellite": [
+      "Satellitename"
+    ],
+    "sensor": [
+      "Sensorname"
+    ]
+  }
+}
