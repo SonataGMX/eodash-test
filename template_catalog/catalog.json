@@ -37,12 +37,12 @@
       "href": "./Forest Loss in 2025 winter/collection.json",
       "type": "application/json",
       "title": "Forest Loss in 2025 winter",
-      "code": "forest_lit_lat_est_2025_winter",
+      "code": "forest_lit_lat_est_2025_winter_pix",
       "id": "Forest Loss in 2025 winter",
       "themes": [
         "Forest"
       ],
-      "subcode": "forest_lit_lat_est_2025_winter",
+      "subcode": "forest_lit_lat_est_2025_winter_pix",
       "satellite": [
         "Satellitename"
       ],
