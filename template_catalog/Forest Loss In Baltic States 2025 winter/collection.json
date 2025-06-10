@@ -12,12 +12,12 @@
     },
     {
       "rel": "child",
-      "href": "./Forest Loss in 2025 winter/collection.json",
+      "href": "./Forest Loss in 2025 winter coeficient values/collection.json",
       "type": "application/json",
-      "title": "Forest Loss in 2025 winter",
+      "title": "Forest Loss in 2025 winter coeficient values",
       "endpointtype": "WMS_OverwriteTimes",
       "code": "forest_lit_lat_est_2025_winter_pix",
-      "id": "Forest Loss in 2025 winter",
+      "id": "Forest Loss in 2025 winter coeficient values",
       "themes": [
         "Forest"
       ],
@@ -40,12 +40,12 @@
     },
     {
       "rel": "child",
-      "href": "./Forest Loss in 2025 winter points/collection.json",
+      "href": "./Forest Loss in 2025 winter clear-cuts points/collection.json",
       "type": "application/json",
-      "title": "Forest Loss in 2025 winter points",
+      "title": "Forest Loss in 2025 winter clear-cuts points",
       "endpointtype": "WMS_OverwriteTimes",
       "code": "forest_lit_lat_est_2025_winter_pnt",
-      "id": "Forest Loss in 2025 winter points",
+      "id": "Forest Loss in 2025 winter clear-cuts points",
       "themes": [
         "Forest"
       ],
@@ -170,8 +170,8 @@
   "summaries": {
     "subcode": [
       "forest_lit_lat_est_2025_winter_pix",
-      "forest_lt_lat_est_2025_winter_boundaries",
-      "forest_lit_lat_est_2025_winter_pnt"
+      "forest_lit_lat_est_2025_winter_pnt",
+      "forest_lt_lat_est_2025_winter_boundaries"
     ],
     "themes": [
       "Forest"
