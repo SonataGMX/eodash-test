@@ -7,3 +7,4 @@ default_overlay_layers: "layers/overlays"
 assets_endpoint: "https://raw.githubusercontent.com/SonataGMX/eodash-test/main/"
 collections:
   - forest_lt_m05-09
+  - forest_lit_lat_est_2025_winter
