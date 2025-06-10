@@ -34,11 +34,11 @@
     },
     {
       "rel": "child",
-      "href": "./Forest Loss In Baltic States winter (2025)/collection.json",
+      "href": "./Forest Loss In Baltic States 2025 winter/collection.json",
       "type": "application/json",
-      "title": "Forest Loss In Baltic States winter (2025)",
+      "title": "Forest Loss In Baltic States 2025 winter",
       "code": "forest_lit_lat_est_2025_winter",
-      "id": "Forest Loss In Baltic States winter (2025)",
+      "id": "Forest Loss In Baltic States 2025 winter",
       "subcode": "forest_lit_lat_est_2025_winter",
       "themes": [
         "Forest"
