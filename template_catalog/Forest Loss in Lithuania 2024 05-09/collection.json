@@ -1,6 +1,6 @@
 {
   "type": "Collection",
-  "id": "Forest Loss in 2024 05-09",
+  "id": "Forest Loss in Lithuania 2024 05-09",
   "stac_version": "1.1.0",
   "description": "## Tree cover loss\n\n### Tree cover loss legend\n![image](sagris_forest_cuts_m0509_pc.png)\n\nTree cover loss monthly estimates, derived from Sentinel-1 polarimetry\nSAR data pre-processed with SAGRIS production system\n(http://www.sagris.eu), cover all scenarios of natural and man-made \ncauses of the loss of trees, including natural tree fall due to aging,\nsevere storms, forestry maintenance activities, as well as legal or\nillegal timber production. This service has high sensitivity (minimum\nmapping unit - 100 sq.m) and temporal frequency (monthly updates during\nsummer) with additional periodic assessment of the whole summer season\n(months 05-09, 2024). Vector map of forestry taxation units shows\npercentage of area indicating tree loss.\n",
   "links": [
@@ -211,7 +211,7 @@
     "name": "EPSG:3035",
     "def": "+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs"
   },
-  "title": "Forest Loss in 2024 05-09",
+  "title": "Forest Loss in Lithuania 2024 05-09",
   "extent": {
     "spatial": {
       "bbox": [
@@ -272,9 +272,9 @@
   "summaries": {
     "subcode": [
       "forest_lt_05",
-      "forest_lt_09",
-      "forest_lt_06",
       "forest_lt_07",
+      "forest_lt_06",
+      "forest_lt_09",
       "forest_lt_0509_wms",
       "forest_lt_08"
     ],

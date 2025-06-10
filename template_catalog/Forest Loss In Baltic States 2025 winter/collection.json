@@ -169,8 +169,8 @@
   "license": "other",
   "summaries": {
     "subcode": [
-      "forest_lit_lat_est_2025_winter_pix",
       "forest_lit_lat_est_2025_winter_pnt",
+      "forest_lit_lat_est_2025_winter_pix",
       "forest_lt_lat_est_2025_winter_boundaries"
     ],
     "themes": [
