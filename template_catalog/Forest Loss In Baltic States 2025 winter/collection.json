@@ -40,12 +40,12 @@
     },
     {
       "rel": "child",
-      "href": "./Forest Loss in 2025 winter clear-cuts points/collection.json",
+      "href": "./Forest Loss Clear-cuts Points In 2025 Winter/collection.json",
       "type": "application/json",
-      "title": "Forest Loss in 2025 winter clear-cuts points",
+      "title": "Forest Loss Clear-cuts Points In 2025 Winter",
       "endpointtype": "WMS_OverwriteTimes",
       "code": "forest_lit_lat_est_2025_winter_pnt",
-      "id": "Forest Loss in 2025 winter clear-cuts points",
+      "id": "Forest Loss Clear-cuts Points In 2025 Winter",
       "themes": [
         "Forest"
       ],
@@ -169,8 +169,8 @@
   "license": "other",
   "summaries": {
     "subcode": [
-      "forest_lit_lat_est_2025_winter_pix",
       "forest_lit_lat_est_2025_winter_pnt",
+      "forest_lit_lat_est_2025_winter_pix",
       "forest_lt_lat_est_2025_winter_boundaries"
     ],
     "themes": [
