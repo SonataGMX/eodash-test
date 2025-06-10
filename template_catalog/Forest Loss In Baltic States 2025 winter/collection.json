@@ -68,12 +68,12 @@
     },
     {
       "rel": "child",
-      "href": "./Forest Loss in 2025 winter boundaries/collection.json",
+      "href": "./CORINE 2018 Forest Boundaries/collection.json",
       "type": "application/json",
-      "title": "Forest Loss in 2025 winter boundaries",
+      "title": "CORINE 2018 Forest Boundaries",
       "endpointtype": "WMS_OverwriteTimes",
       "code": "forest_lt_lat_est_2025_winter_boundaries",
-      "id": "Forest Loss in 2025 winter boundaries",
+      "id": "CORINE 2018 Forest Boundaries",
       "themes": [
         "Forest"
       ],
@@ -169,9 +169,9 @@
   "license": "other",
   "summaries": {
     "subcode": [
+      "forest_lt_lat_est_2025_winter_boundaries",
       "forest_lit_lat_est_2025_winter_pnt",
-      "forest_lit_lat_est_2025_winter_pix",
-      "forest_lt_lat_est_2025_winter_boundaries"
+      "forest_lit_lat_est_2025_winter_pix"
     ],
     "themes": [
       "Forest"
