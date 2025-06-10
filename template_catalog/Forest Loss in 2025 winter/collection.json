@@ -16,7 +16,7 @@
       "type": "application/json",
       "title": "Forest Loss in 2025 winter",
       "endpointtype": "WMS_OverwriteTimes",
-      "code": "forest_lt_lat_est_2025_winter",
+      "code": "forest_lit_lat_est_2025_winter",
       "id": "Forest Loss in 2025 winter",
       "themes": [
         "Forest"
@@ -27,7 +27,7 @@
       "agency": [
         "Example agency"
       ],
-      "subcode": "forest_lt_lat_est_2025_winter",
+      "subcode": "forest_lit_lat_est_2025_winter",
       "sensor": [
         "Sensorname"
       ],
@@ -75,7 +75,7 @@
   "agency": [
     "Example agency"
   ],
-  "subcode": "forest_lt_lat_est_2025_winter",
+  "subcode": "forest_lit_lat_est_2025_winter",
   "sensor": [
     "Sensorname"
   ],
@@ -115,7 +115,7 @@
   "license": "other",
   "summaries": {
     "subcode": [
-      "forest_lt_lat_est_2025_winter"
+      "forest_lit_lat_est_2025_winter"
     ],
     "themes": [
       "Forest"
