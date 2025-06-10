@@ -12,12 +12,12 @@
     },
     {
       "rel": "child",
-      "href": "./Forest Loss in 2025 winter coeficient values/collection.json",
+      "href": "./Forest Loss Coeficient Values In 2025 Winter/collection.json",
       "type": "application/json",
-      "title": "Forest Loss in 2025 winter coeficient values",
+      "title": "Forest Loss Coeficient Values In 2025 Winter",
       "endpointtype": "WMS_OverwriteTimes",
       "code": "forest_lit_lat_est_2025_winter_pix",
-      "id": "Forest Loss in 2025 winter coeficient values",
+      "id": "Forest Loss Coeficient Values In 2025 Winter",
       "themes": [
         "Forest"
       ],
