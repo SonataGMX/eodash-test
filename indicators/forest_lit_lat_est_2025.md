@@ -1,7 +1,8 @@
 ## Tree cover loss
 
 ### Tree cover loss legend
-![image](sagris_forest_cuts_m0509_pc.png)
+![image](legenda_pix.png)
+![image](legenda_points.png)
 
 Tree cover loss monthly estimates, derived from Sentinel-1 polarimetry
 SAR data pre-processed with SAGRIS production system
